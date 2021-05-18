@@ -1,3 +1,6 @@
+# Lab 3
+ODE solution (Cauchy problem)
+Improved Euler method 
 # Lab 4
 Solving systems of equations by various methods.
 Gauss, Seidel and Jacobi methods.
